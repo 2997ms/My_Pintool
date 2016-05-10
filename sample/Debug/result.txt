@@ -1,0 +1,1287 @@
+len:1
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 56447463
+Number of basic blocks: 18960470
+Number of threads: 1
+===============================================
+
+
+len:2
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 56447463
+Number of basic blocks: 18960470
+Number of threads: 1
+===============================================
+
+
+len:3
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 56447463
+Number of basic blocks: 18960470
+Number of threads: 1
+===============================================
+
+
+len:4
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 56447463
+Number of basic blocks: 18960470
+Number of threads: 1
+===============================================
+
+
+len:1
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 1537100
+Number of basic blocks: 596156
+Number of threads: 1
+===============================================
+
+
+len:2
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 1537190
+Number of basic blocks: 596180
+Number of threads: 1
+===============================================
+
+
+len:3
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 1537270
+Number of basic blocks: 596198
+Number of threads: 1
+===============================================
+
+
+len:4
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 1902108
+Number of basic blocks: 673526
+Number of threads: 1
+===============================================
+
+
+len:5
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 1537466
+Number of basic blocks: 596241
+Number of threads: 1
+===============================================
+
+
+len:6
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 1537560
+Number of basic blocks: 596265
+Number of threads: 1
+===============================================
+
+
+len:7
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 1902370
+Number of basic blocks: 673593
+Number of threads: 1
+===============================================
+
+
+len:8
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 14104609
+Number of basic blocks: 4754527
+Number of threads: 1
+===============================================
+
+
+len:9
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 1537828
+Number of basic blocks: 596328
+Number of threads: 1
+===============================================
+
+
+len:10
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 1537910
+Number of basic blocks: 596346
+Number of threads: 1
+===============================================
+
+
+pwd:!.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 7638836
+Number of basic blocks: 2636772
+Number of threads: 1
+===============================================
+
+
+pwd:".......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 7638834
+Number of basic blocks: 2636770
+Number of threads: 1
+===============================================
+
+
+pwd:#.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 8003518
+Number of basic blocks: 2714073
+Number of threads: 1
+===============================================
+
+
+pwd:$.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 7638838
+Number of basic blocks: 2636770
+Number of threads: 1
+===============================================
+
+
+pwd:%.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 7638794
+Number of basic blocks: 2636768
+Number of threads: 1
+===============================================
+
+
+pwd:&.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 8003566
+Number of basic blocks: 2714077
+Number of threads: 1
+===============================================
+
+
+pwd:'.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 7638832
+Number of basic blocks: 2636770
+Number of threads: 1
+===============================================
+
+
+pwd:(.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 7638816
+Number of basic blocks: 2636770
+Number of threads: 1
+===============================================
+
+
+pwd:).......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 7638802
+Number of basic blocks: 2636759
+Number of threads: 1
+===============================================
+
+
+pwd:*.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 7638820
+Number of basic blocks: 2636768
+Number of threads: 1
+===============================================
+
+
+pwd:+.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 7638830
+Number of basic blocks: 2636772
+Number of threads: 1
+===============================================
+
+
+pwd:,.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 7638794
+Number of basic blocks: 2636769
+Number of threads: 1
+===============================================
+
+
+pwd:-.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 7638822
+Number of basic blocks: 2636769
+Number of threads: 1
+===============================================
+
+
+pwd:........
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 7638816
+Number of basic blocks: 2636768
+Number of threads: 1
+===============================================
+
+
+pwd:/.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 7638838
+Number of basic blocks: 2636773
+Number of threads: 1
+===============================================
+
+
+pwd:0.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 8003552
+Number of basic blocks: 2714075
+Number of threads: 1
+===============================================
+
+
+pwd:1.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 7638826
+Number of basic blocks: 2636772
+Number of threads: 1
+===============================================
+
+
+pwd:2.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 7638822
+Number of basic blocks: 2636768
+Number of threads: 1
+===============================================
+
+
+pwd:3.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 7638826
+Number of basic blocks: 2636770
+Number of threads: 1
+===============================================
+
+
+pwd:4.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 8003568
+Number of basic blocks: 2714077
+Number of threads: 1
+===============================================
+
+
+pwd:5.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 8003554
+Number of basic blocks: 2714077
+Number of threads: 1
+===============================================
+
+
+pwd:6.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 7638804
+Number of basic blocks: 2636767
+Number of threads: 1
+===============================================
+
+
+pwd:7.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 7638832
+Number of basic blocks: 2636771
+Number of threads: 1
+===============================================
+
+
+pwd:8.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 8003536
+Number of basic blocks: 2714073
+Number of threads: 1
+===============================================
+
+
+pwd:9.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 7638824
+Number of basic blocks: 2636770
+Number of threads: 1
+===============================================
+
+
+pwd::.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 7638826
+Number of basic blocks: 2636770
+Number of threads: 1
+===============================================
+
+
+pwd:;.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 7638826
+Number of basic blocks: 2636768
+Number of threads: 1
+===============================================
+
+
+pwd:<.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 7638814
+Number of basic blocks: 2636768
+Number of threads: 1
+===============================================
+
+
+pwd:=.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 7638830
+Number of basic blocks: 2636770
+Number of threads: 1
+===============================================
+
+
+pwd:>.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 8003530
+Number of basic blocks: 2714074
+Number of threads: 1
+===============================================
+
+
+pwd:?.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 7638842
+Number of basic blocks: 2636770
+Number of threads: 1
+===============================================
+
+
+pwd:@.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 7638836
+Number of basic blocks: 2636773
+Number of threads: 1
+===============================================
+
+
+pwd:A.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 7638834
+Number of basic blocks: 2636771
+Number of threads: 1
+===============================================
+
+
+pwd:B.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 7638804
+Number of basic blocks: 2636766
+Number of threads: 1
+===============================================
+
+
+pwd:C.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 7638834
+Number of basic blocks: 2636772
+Number of threads: 1
+===============================================
+
+
+pwd:D.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 7638814
+Number of basic blocks: 2636768
+Number of threads: 1
+===============================================
+
+
+pwd:E.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 8003552
+Number of basic blocks: 2714075
+Number of threads: 1
+===============================================
+
+
+pwd:F.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 7638806
+Number of basic blocks: 2636766
+Number of threads: 1
+===============================================
+
+
+pwd:G.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 7638822
+Number of basic blocks: 2636769
+Number of threads: 1
+===============================================
+
+
+pwd:H.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 7638826
+Number of basic blocks: 2636768
+Number of threads: 1
+===============================================
+
+
+pwd:I.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 7638832
+Number of basic blocks: 2636770
+Number of threads: 1
+===============================================
+
+
+pwd:J.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 7638832
+Number of basic blocks: 2636770
+Number of threads: 1
+===============================================
+
+
+pwd:K.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 7638834
+Number of basic blocks: 2636771
+Number of threads: 1
+===============================================
+
+
+pwd:L.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 7638824
+Number of basic blocks: 2636771
+Number of threads: 1
+===============================================
+
+
+pwd:M.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 7638802
+Number of basic blocks: 2636768
+Number of threads: 1
+===============================================
+
+
+pwd:N.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 8003544
+Number of basic blocks: 2714075
+Number of threads: 1
+===============================================
+
+
+pwd:O.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 8003552
+Number of basic blocks: 2714076
+Number of threads: 1
+===============================================
+
+
+pwd:P.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 7638810
+Number of basic blocks: 2636770
+Number of threads: 1
+===============================================
+
+
+pwd:Q.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 7638830
+Number of basic blocks: 2636773
+Number of threads: 1
+===============================================
+
+
+pwd:R.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 7638828
+Number of basic blocks: 2636768
+Number of threads: 1
+===============================================
+
+
+pwd:S.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 7638800
+Number of basic blocks: 2636768
+Number of threads: 1
+===============================================
+
+
+pwd:T.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 7638830
+Number of basic blocks: 2636772
+Number of threads: 1
+===============================================
+
+
+pwd:U.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 8003546
+Number of basic blocks: 2714076
+Number of threads: 1
+===============================================
+
+
+pwd:V.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 7638840
+Number of basic blocks: 2636772
+Number of threads: 1
+===============================================
+
+
+pwd:W.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 7638800
+Number of basic blocks: 2636761
+Number of threads: 1
+===============================================
+
+
+pwd:X.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 7638826
+Number of basic blocks: 2636770
+Number of threads: 1
+===============================================
+
+
+pwd:Y.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 7638818
+Number of basic blocks: 2636768
+Number of threads: 1
+===============================================
+
+
+pwd:Z.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 7638834
+Number of basic blocks: 2636772
+Number of threads: 1
+===============================================
+
+
+pwd:[.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 7638840
+Number of basic blocks: 2636772
+Number of threads: 1
+===============================================
+
+
+pwd:\.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 7638834
+Number of basic blocks: 2636772
+Number of threads: 1
+===============================================
+
+
+pwd:_.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 7638818
+Number of basic blocks: 2636769
+Number of threads: 1
+===============================================
+
+
+pwd:`.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 7638830
+Number of basic blocks: 2636769
+Number of threads: 1
+===============================================
+
+
+pwd:a.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 13739923
+Number of basic blocks: 4677235
+Number of threads: 1
+===============================================
+
+
+pwd:b.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 7638832
+Number of basic blocks: 2636770
+Number of threads: 1
+===============================================
+
+
+pwd:c.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 7638828
+Number of basic blocks: 2636771
+Number of threads: 1
+===============================================
+
+
+pwd:d.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 7638838
+Number of basic blocks: 2636770
+Number of threads: 1
+===============================================
+
+
+pwd:e.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 7638834
+Number of basic blocks: 2636770
+Number of threads: 1
+===============================================
+
+
+pwd:f.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 8003536
+Number of basic blocks: 2714073
+Number of threads: 1
+===============================================
+
+
+pwd:g.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 7638836
+Number of basic blocks: 2636770
+Number of threads: 1
+===============================================
+
+
+pwd:h.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 7638818
+Number of basic blocks: 2636768
+Number of threads: 1
+===============================================
+
+
+pwd:i.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 7638826
+Number of basic blocks: 2636767
+Number of threads: 1
+===============================================
+
+
+pwd:j.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 7638832
+Number of basic blocks: 2636772
+Number of threads: 1
+===============================================
+
+
+pwd:k.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 7638816
+Number of basic blocks: 2636771
+Number of threads: 1
+===============================================
+
+
+pwd:l.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 7638814
+Number of basic blocks: 2636759
+Number of threads: 1
+===============================================
+
+
+pwd:m.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 7638804
+Number of basic blocks: 2636758
+Number of threads: 1
+===============================================
+
+
+pwd:n.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 8003548
+Number of basic blocks: 2714075
+Number of threads: 1
+===============================================
+
+
+pwd:o.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 7638818
+Number of basic blocks: 2636768
+Number of threads: 1
+===============================================
+
+
+pwd:p.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 7638836
+Number of basic blocks: 2636772
+Number of threads: 1
+===============================================
+
+
+pwd:q.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 7638808
+Number of basic blocks: 2636769
+Number of threads: 1
+===============================================
+
+
+pwd:r.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 7638832
+Number of basic blocks: 2636770
+Number of threads: 1
+===============================================
+
+
+pwd:s.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 7638808
+Number of basic blocks: 2636768
+Number of threads: 1
+===============================================
+
+
+pwd:t.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 8003550
+Number of basic blocks: 2714075
+Number of threads: 1
+===============================================
+
+
+pwd:u.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 7638816
+Number of basic blocks: 2636771
+Number of threads: 1
+===============================================
+
+
+pwd:v.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 7638796
+Number of basic blocks: 2636757
+Number of threads: 1
+===============================================
+
+
+pwd:w.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 7638808
+Number of basic blocks: 2636769
+Number of threads: 1
+===============================================
+
+
+pwd:x.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 7638808
+Number of basic blocks: 2636767
+Number of threads: 1
+===============================================
+
+
+pwd:y.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 7638828
+Number of basic blocks: 2636773
+Number of threads: 1
+===============================================
+
+
+pwd:z.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 8003552
+Number of basic blocks: 2714075
+Number of threads: 1
+===============================================
+
+
+pwd:{.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 7638804
+Number of basic blocks: 2636761
+Number of threads: 1
+===============================================
+
+
+pwd:|.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 7638822
+Number of basic blocks: 2636768
+Number of threads: 1
+===============================================
+
+
+pwd:}.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 7638822
+Number of basic blocks: 2636770
+Number of threads: 1
+===============================================
+
+
+pwd:~.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 7638814
+Number of basic blocks: 2636759
+Number of threads: 1
+===============================================
+
+
+pwd:a!......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 14104623
+Number of basic blocks: 4754538
+Number of threads: 1
+===============================================
+
+
+pwd:a"......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 13739897
+Number of basic blocks: 4677229
+Number of threads: 1
+===============================================
+
+
+pwd:a#......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 13739905
+Number of basic blocks: 4677233
+Number of threads: 1
+===============================================
+
+
+pwd:a$......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 13739923
+Number of basic blocks: 4677233
+Number of threads: 1
+===============================================
+
+
+pwd:a%......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 14104633
+Number of basic blocks: 4754539
+Number of threads: 1
+===============================================
+
+
+pwd:a&......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 14104635
+Number of basic blocks: 4754538
+Number of threads: 1
+===============================================
+
+
+pwd:a'......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 13739919
+Number of basic blocks: 4677234
+Number of threads: 1
+===============================================
+
+
+pwd:a(......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 13739889
+Number of basic blocks: 4677231
+Number of threads: 1
+===============================================
+
+
+pwd:a)......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 14104621
+Number of basic blocks: 4754536
+Number of threads: 1
+===============================================
+
+
+pwd:a*......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 13739895
+Number of basic blocks: 4677231
+Number of threads: 1
+===============================================
+
+
+pwd:a+......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 13739909
+Number of basic blocks: 4677231
+Number of threads: 1
+===============================================
+
+
+pwd:a,......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 13739905
+Number of basic blocks: 4677233
+Number of threads: 1
+===============================================
+
+
+pwd:a-......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 13739897
+Number of basic blocks: 4677231
+Number of threads: 1
+===============================================
+
+
+pwd:a.......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 14104627
+Number of basic blocks: 4754538
+Number of threads: 1
+===============================================
+
+
+pwd:a/......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 13739917
+Number of basic blocks: 4677233
+Number of threads: 1
+===============================================
+
+
+pwd:a0......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 13739923
+Number of basic blocks: 4677233
+Number of threads: 1
+===============================================
+
+
+pwd:a1......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 13739901
+Number of basic blocks: 4677231
+Number of threads: 1
+===============================================
+
+
+pwd:a2......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 13739919
+Number of basic blocks: 4677233
+Number of threads: 1
+===============================================
+
+
+pwd:a3......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 13739919
+Number of basic blocks: 4677233
+Number of threads: 1
+===============================================
+
+
+pwd:a4......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 13739895
+Number of basic blocks: 4677233
+Number of threads: 1
+===============================================
+
+
+pwd:a5......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 13739925
+Number of basic blocks: 4677236
+Number of threads: 1
+===============================================
+
+
+pwd:a6......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 14104649
+Number of basic blocks: 4754540
+Number of threads: 1
+===============================================
+
+
+pwd:a7......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 13739915
+Number of basic blocks: 4677232
+Number of threads: 1
+===============================================
+
+
+pwd:a8......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 13739925
+Number of basic blocks: 4677233
+Number of threads: 1
+===============================================
+
+
+pwd:a9......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 13739907
+Number of basic blocks: 4677233
+Number of threads: 1
+===============================================
+
+
+pwd:a:......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 13739907
+Number of basic blocks: 4677233
+Number of threads: 1
+===============================================
+
+
+pwd:a;......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 13739901
+Number of basic blocks: 4677231
+Number of threads: 1
+===============================================
+
+
+pwd:a<......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 13739927
+Number of basic blocks: 4677233
+Number of threads: 1
+===============================================
+
+
+pwd:a=......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 14104607
+Number of basic blocks: 4754537
+Number of threads: 1
+===============================================
+
+
+pwd:a>......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 13739909
+Number of basic blocks: 4677231
+Number of threads: 1
+===============================================
+
+
+pwd:a?......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 13739923
+Number of basic blocks: 4677235
+Number of threads: 1
+===============================================
+
+
+pwd:a@......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 13739923
+Number of basic blocks: 4677235
+Number of threads: 1
+===============================================
+
+
+pwd:aA......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 13739893
+Number of basic blocks: 4677231
+Number of threads: 1
+===============================================
+
+
+pwd:aB......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 13739917
+Number of basic blocks: 4677235
+Number of threads: 1
+===============================================
+
+
+pwd:aC......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 13739903
+Number of basic blocks: 4677233
+Number of threads: 1
+===============================================
+
+
+pwd:aD......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 13739909
+Number of basic blocks: 4677233
+Number of threads: 1
+===============================================
+
+
+pwd:aE......
+===============================================
+MyPinTool analysis results: 
+Number of instructions: 13739913
+Number of basic blocks: 4677234
+Number of threads: 1
+===============================================
+
+
